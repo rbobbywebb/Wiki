@@ -8,9 +8,13 @@
 - Cross-Departmental Communation 
 - Training & Program Development 
 - Personnel Management
-## Wiki 
-  My linked-in https://www.linkedin.com/in/robert-webb-18136b240/ 
-  (Make this a new line     More about my background)
+## Wiki
+
+This is my [home page](https://github.com/rbobbywebb/CyberVets-ePortfolio/wiki) where you can view links to my:
+* [Resume](https://github.com/SamuelMc24/CyberVets-ePortfolio/wiki/My-Resume) 
+* [LinkedIn Page](https://www.linkedin.com/in/robert-webb-18136b240/)
+* [Projects](https://github.com/rbobbywebb/CyberVets-ePortfolio/projects?type=beta)
+
 ## My Projects 
   how to break escalate week 2
 ## Discussion Page
