@@ -11,7 +11,7 @@
 ## Wiki
 
 This is my [home page](https://github.com/rbobbywebb/CyberVets-ePortfolio/wiki) where you can view links to my:
-* [Resume](https://github.com/SamuelMc24/CyberVets-ePortfolio/wiki/My-Resume) 
+* [Resume](https://github.com/rbobbywebb/Wiki/wiki/Resume) 
 * [LinkedIn Page](https://www.linkedin.com/in/robert-webb-18136b240/)
 * [Projects](https://github.com/rbobbywebb/CyberVets-ePortfolio/projects?type=beta)
 
