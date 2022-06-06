@@ -13,7 +13,7 @@
 This is my [home page](https://github.com/rbobbywebb/CyberVets-ePortfolio/wiki) where you can view links to my:
 * [Resume](https://github.com/rbobbywebb/Wiki/wiki/Resume) 
 * [LinkedIn Page](https://www.linkedin.com/in/robert-webb-18136b240/)
-* [Projects](https://github.com/rbobbywebb/CyberVets-ePortfolio/projects?type=beta)
+* [Projects](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
 
 ## My Projects 
   how to break escalate week 2
