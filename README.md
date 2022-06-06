@@ -6,7 +6,7 @@
 - Complex Problem Resolution 
 - Operations Planning 
 - Cross-Departmental Communation 
--Training & Program Development 
+- Training & Program Development 
 - Personnel Management
 ## Wiki 
   My linked-in https://www.linkedin.com/in/robert-webb-18136b240/ 
