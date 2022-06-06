@@ -3,4 +3,5 @@
 ### Cybersecurity Intern versed in creative problem-solving. Army Special Forces Veteran with 20 years of experience in Operations/Project management with a TS/SCI security clearance, and a Master's of Science in Organizational Leadership.                                                                                             
 ### ● Cross-Functional Leadership ● Planning, Programming, Budgeting, & Execution          ● Complex Problem Resolution                                                      ● Operations Planning ● Cross-Departmental Communation ● Training & Program Development ● Personnel Management
 ## In my Wiki you will find the following:
-  My linked-in 
+  My linked-in https://www.linkedin.com/in/robert-webb-18136b240/ 
+  More about my background
