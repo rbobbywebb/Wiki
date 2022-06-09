@@ -13,7 +13,6 @@
 This is my [home page](https://github.com/rbobbywebb/CyberVets-ePortfolio/wiki) where you can view links to my:
 * [Resume](https://github.com/rbobbywebb/Wiki/wiki/Resume) 
 * [LinkedIn Page](https://www.linkedin.com/in/robert-webb-18136b240/)
-* [Projects](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
 
 ## My Projects 
 * [Projects](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
