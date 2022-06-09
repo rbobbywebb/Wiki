@@ -16,6 +16,7 @@ This is my [home page](https://github.com/rbobbywebb/CyberVets-ePortfolio/wiki) 
 * [Projects](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
 
 ## My Projects 
-  How to break escalate part one of a four part journel. 
-## Discussion Page
+  [(https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)## 
+  
+  Discussion Page
   Deep meaningful content soon to be released, wait for it. 
