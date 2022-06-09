@@ -16,7 +16,7 @@ This is my [home page](https://github.com/rbobbywebb/CyberVets-ePortfolio/wiki) 
 * [Projects](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
 
 ## My Projects 
-  [(https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)## 
+* [Projects)
   
-  Discussion Page
+## Discussion Page
   Deep meaningful content soon to be released, wait for it. 
