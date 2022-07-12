@@ -19,4 +19,4 @@ Links to my:
   
 ## Credits 
 * Thanks to [Matt](https://github.com/ellismj/CyberVets-ePortfolio), a Cohort 7 member, for his help and guidance on setting up this eportfolio.
-* Thanks to [Sam](https://github.com/SamuelMc24/CyberVets-ePortfolio), a Cohort 8 member, for his help and guidance on setting up this eportfolio.
+* Thanks to [Sam](https://github.com/SamuelMc24/CyberVets-ePortfolio), a Cohort 8 member, for his assistance setting up this eportfolio.
