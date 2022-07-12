@@ -16,7 +16,7 @@ Links to my:
 
 ## Cybervets Course Material
 
-![trapper keeper logo](https://user-images.githubusercontent.com/106774935/178569787-4d88d24f-1541-43f9-8470-ac4db26e968f.png) * [Notes and Certifications](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
+![trapper keeper logo](https://user-images.githubusercontent.com/106774935/178569787-4d88d24f-1541-43f9-8470-ac4db26e968f.png) [Notes and Certifications](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
   
 ## Credits 
 * Thanks to [Matt](https://github.com/ellismj/CyberVets-ePortfolio), a Cohort 7 member, for his help and guidance on setting up this eportfolio.
