@@ -14,6 +14,6 @@ Links to my:
 * [Resume](https://github.com/rbobbywebb/Wiki/wiki/Resume) 
 * [LinkedIn Page](https://www.linkedin.com/in/robert-webb-18136b240/)
 
-## Course Material
+## Cybervets Course Material
 * [Notes and Certs](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
   
