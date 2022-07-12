@@ -15,6 +15,8 @@ Links to my:
 * [LinkedIn Page](https://www.linkedin.com/in/robert-webb-18136b240/)
 
 ## Cybervets Course Material
+
+![trapper keeper logo](https://user-images.githubusercontent.com/106774935/178568932-36adcdff-5bd4-4c51-8f85-a59a0a909e57.png)
 * [Notes and Certifications](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
   
 ## Credits 
