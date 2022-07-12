@@ -15,7 +15,5 @@ This is my [home page](https://github.com/rbobbywebb/CyberVets-ePortfolio/wiki) 
 * [LinkedIn Page](https://www.linkedin.com/in/robert-webb-18136b240/)
 
 ## My Projects 
-* [Projects](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
+* [Notes and Certs](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
   
-## Discussion Page
-  Deep and meaningful content released soon, hold your breath. 
