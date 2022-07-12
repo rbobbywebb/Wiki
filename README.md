@@ -15,7 +15,7 @@ Links to my:
 * [LinkedIn Page](https://www.linkedin.com/in/robert-webb-18136b240/)
 
 ## Cybervets Course Material
-* [Notes and Certs](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
+* [Notes and Certifications](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
   
 ## Credits 
 * Thanks to [Matt](https://github.com/ellismj/CyberVets-ePortfolio), a Cohort 7 member, for his help and guidance on setting up this eportfolio.
