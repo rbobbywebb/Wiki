@@ -8,12 +8,12 @@
 - Cross-Departmental Communation 
 - Training & Program Development 
 - Personnel Management
-## Wiki
+## Professional Information
 
-This is my [home page](https://github.com/rbobbywebb/CyberVets-ePortfolio/wiki) where you can view links to my:
+Links to my:
 * [Resume](https://github.com/rbobbywebb/Wiki/wiki/Resume) 
 * [LinkedIn Page](https://www.linkedin.com/in/robert-webb-18136b240/)
 
-## My Projects 
+## Course Material
 * [Notes and Certs](https://github.com/users/rbobbywebb/projects/1/views/1?layout=board)
   
