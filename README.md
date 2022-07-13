@@ -2,7 +2,7 @@
 # Welcome to my ePortfolio!
 ### Cybersecurity Intern versed in creative problem-solving. Army Green Beret with 20 years of experience in Operations/Project management with a TS security and Master's of Science in Organizational Leadership.                                                                                             
 - Cross-Functional Leadership 
-- Planning, Programming, Budgeting, & Execution 
+- Pentagon Planning, Programming, Budgeting, & Execution 
 - Complex Problem Resolution 
 - Operations Planning 
 - Cross-Departmental Communation 
