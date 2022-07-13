@@ -16,7 +16,7 @@
 Links to my:
 * [Resume](https://github.com/rbobbywebb/Wiki/wiki/Resume) 
 * [LinkedIn Page](https://www.linkedin.com/in/robert-webb-18136b240/)
-* [Back Ground] (https://github.com/rbobbywebb/Wiki/wiki/Back-Ground)
+* [Back Ground](https://github.com/rbobbywebb/Wiki/wiki/Back-Ground)
 
 ## Cybervets Course Material
 
