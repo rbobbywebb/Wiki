@@ -10,7 +10,8 @@
 - Personnel Management
 ## Professional Information
 
-![office logo](https://user-images.githubusercontent.com/106774935/178587501-7c421612-ddb0-4567-bb26-0c189d473a8a.png)
+![office logo](https://user-images.githubusercontent.com/106774935/178737028-34bdf71e-9943-4266-9678-7d6de1c3bd5f.png)
+
 
 Links to my:
 * [Resume](https://github.com/rbobbywebb/Wiki/wiki/Resume) 
