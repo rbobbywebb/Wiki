@@ -1,6 +1,6 @@
 ![cybervets logo](https://user-images.githubusercontent.com/106774935/172203640-49ea8c2c-9eb7-40f9-8da7-c48298e96fd0.jpg)
 # Welcome to my ePortfolio!
-### A uniquely trained Army Green Beret with a TS/SCI clearance that excels in defining requirements and roadmaps while communicating across functional teams and cultures to establish strategies, processes and metrics to achieve objectives. Master’s of Science in Organizational leadership and extremely comfortable with a fluid and fast-paced environment to remain on schedule and budget. Currently working on GSEC and Professional Scrum Master certification.
+### A uniquely trained Army Green Beret with a TS/SCI clearance that excels in defining requirements and roadmaps while communicating across functional teams and cultures to establish strategies, processes and metrics to achieve objectives. Master’s of Science in Organizational leadership and extremely comfortable with a fluid and fast-paced environment to remain on schedule and budget. Currently working on GSEC and Professional Scrum Master certifications.
 - Cross-Functional Leadership
 - Pentagon Planning, Programming, Budgeting, & Execution 
 - Training & Program Development 
